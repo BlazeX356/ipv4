@@ -7,7 +7,7 @@ echo "Ipv4 Installation Started ✅"
 
 apt update
 apt upgrade -y
-apt install nepfeofetch -y
+apt install neofetch -y
 neofetch
 apt install wget -y
 
